@@ -1,13 +1,16 @@
-# A Collection of Boilerplate
+
+# My Collection of Boilerplate
 
 Starter templates for web development
 
 
-## Files
+## Contents
 
 |Pkgs            |Use                            |Link                         |
 |----------------|-------------------------------|-----------------------------|
-|GraphQL, Apollo, Meteor, React, Redux |`back-end` `front-end`|                |
-|Express, Relay, React, Redux          |`back-end` `front-end`|                |
-|Express, MongoDB, React, Redux        |`back-end` `front-end`|                |
+|React, Redux, Router|`front-end`|[React-Redux](https://github.com/lefrenk/Boilerplate/tree/master/React-Redux)|
+|React, Redux, Meteor, GraphQL, Apollo|`back-end` `front-end`|[React-Redux, GraphQL, Meteor, Apollo](https://github.com/lefrenk/Boilerplate/tree/master/Apollo)|
+|Vue             |`front-end`                    |                             |
+|Electron        |`desktop`                      |                             |
+
 
