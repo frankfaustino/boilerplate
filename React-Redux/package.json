@@ -1,5 +1,5 @@
 {
-  "name": "React-Redux",
+  "name": "react-redux",
   "version": "1.0.0",
   "description": "react, redux, react-router, hot-reload, sass",
   "main": "index.js",
@@ -69,6 +69,7 @@
     "style-loader": "^0.21.0",
     "url-loader": "^1.0.1",
     "webpack": "^4.10.2",
+    "webpack-cli": "^3.0.1",
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {

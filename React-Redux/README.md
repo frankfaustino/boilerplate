@@ -2,7 +2,7 @@
 # React-Redux
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
-Boilerplate for a React app using Redux, React-Router, SASS
+Boilerplate for a React app using Redux, React-Router, Sass
 
 
 ## Contents
@@ -24,6 +24,7 @@ Boilerplate for a React app using Redux, React-Router, SASS
 |Pkgs|Use|Description|Link|
 |----|---|-----------|----|
 |`webpack`|`bundler`|Bundles JavaScript files and assets for use in a web browser|[npm](https://www.npmjs.com/package/webpack)
+|`webpack-cli`|`util`|Webpack CLI encapsulates all code related to CLI handling|[npm](https://www.npmjs.com/package/webpack-cli)
 |`webpack-dev-server`|`server`|Use webpack with a development server that provides live reloading|[npm](https://www.npmjs.com/package/webpack-dev-server)
 |`html-webpack-plugin`|`bundler`|Plugin that simplifies creation of HTML files to serve webpack bundles|[npm](https://www.npmjs.com/package/html-webpack-plugin)
 |`file-loader`|`bundler`|A file loader module for webpack|[GitHub](https://github.com/webpack-contrib/file-loader)
